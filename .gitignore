@@ -1,0 +1,12 @@
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+coverage/
+coverage/**/*
+dist/**/*
+.env
+package-lock.json
+vite.config.ts.js
+.vercel
